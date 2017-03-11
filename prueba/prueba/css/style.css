@@ -1,0 +1,63 @@
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    width: 100%;
+}
+.navbar {
+
+	margin-bottom:0px;
+}
+#encabezado{
+	background: url("../img/restaurant-banner2.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(158, 94, 71);
+    font-weight: bolder;
+
+}
+.thumbnail{
+	border: none;
+}
+#copyright{
+	background: #444;
+	margin-top: 50px;
+}
+.row-slider{
+	/*padding: 0 120px 0 120px;*/
+}
+.display-none{
+	display:none;
+}
+.border_drop{
+	border: 1px solid #9E9E9E;
+	height: 400px;
+
+}
+.modal-content, .btn{
+	border-radius: 0;
+	border-radius: 0;
+}
+.imagen-title {
+			width:500px;
+			height:375px;
+			position:relative;
+}
+.imagen-title div h3
+{
+			position: relative;
+			bottom:25px;
+			color:#fff;
+			background-color:#000;
+			padding:2px 10px;
+			opacity:0.5;
+			font-weight:bold;
+}
+.caption h3{
+	text-align: center;
+	color: #9E9E9E;
+}
+.blaco{
+	color: white;
+}
+h1 center {
+	color: #9E9E9E;
+}

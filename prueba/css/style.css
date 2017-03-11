@@ -1,0 +1,4 @@
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    width: 100%;
+}
